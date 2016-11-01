@@ -1,0 +1,21 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2x8Fae9vzhMryt2J/0WT+Qn8ZxU=",
+			"path": "github.com/hoisie/redis",
+			"revision": "b5c6e81454e0395c280f220d82a6854fd0fcf42e",
+			"revisionTime": "2016-07-30T15:44:56Z"
+		},
+		{
+			"checksumSHA1": "nG7MzQMtVZuzvnbGgBE/TOf7Mlg=",
+			"path": "github.com/urfave/cli",
+			"revision": "e485446237011b8abac93919242e6f059ad56c87",
+			"revisionTime": "2016-10-29T22:39:47Z",
+			"version": "v2",
+			"versionExact": "v2"
+		}
+	],
+	"rootPath": "github.com/kevin70/backsys"
+}
